@@ -1,4 +1,4 @@
-# nestjs.auth-extension-ui
+# nestjs.course.auth-extension-ui
 
 UI application for [Official NestJS on Authentication and Authorization course](https://github.com/Dmytro-Uchkin/nestjs.auth-extension)
 
